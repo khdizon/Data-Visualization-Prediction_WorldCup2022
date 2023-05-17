@@ -1,4 +1,4 @@
 # MSDS670_Data_Visualization_FinalProject
-Week8
+Soccer Data Visualization
 
 Video link: 
