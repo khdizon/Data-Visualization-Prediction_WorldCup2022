@@ -1,4 +1,5 @@
-# MSDS670_Data_Visualization_FinalProject
-Soccer Data Visualization
+# Data Visualization
+## MSDS670 - Regis University
 
-Video link: 
+- Date: 15th, October 2022
+- Final Project: FIFA World Cup 2022
